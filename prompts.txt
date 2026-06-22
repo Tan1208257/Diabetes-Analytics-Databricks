@@ -1,0 +1,12 @@
+#Prompt List
+
+I used Claude, Youtube and took some free Databricks courses to better understand on how to work in Databricks.
+The prompts I used in Youtube:
+1. Medallion Structure creation in Databricks beginner level
+
+Claude:
+1. Is an e-commerce topic good for medallion.
+2. Is Diabetes analytics good topic for creating a Medallion Architecture.
+3. PySpark to ingest csv in bronze layer
+4. Fix this error: CAST_INVALID_VALUE '?' cannot be cast to DOUBLE
+5. How do I connect Databricks to GitHub?"
