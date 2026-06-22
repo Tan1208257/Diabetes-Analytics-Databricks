@@ -32,6 +32,7 @@ This project builds a diabetes analytics platform on Databricks using the **Meda
 **Diabetes 130-US Hospitals for Years 1999-2008**
 - UCI ML Repository ID: 296
 - URL: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+- Kaggle: https://www.kaggle.com/datasets/brandao/diabetes
 - Citation: Strack B. et al. (2014). BioMed Research International.
 - 30 features: patient demographics, admission details, diagnoses, medications, readmission status
 - File: `data/diabetes_hospitals.csv`
