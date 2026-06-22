@@ -144,20 +144,6 @@ To verify the pipeline updates automatically when new data is added:
 
 > Screenshots of the before/after counts are in the `/screenshots` folder.
 
----
-
-## Submission Checklist
-
-- [ ] Both CSV data files uploaded to DBFS
-- [ ] All 8 notebooks imported to Databricks workspace
-- [ ] All notebooks run successfully (no errors)
-- [ ] All Bronze, Silver, Gold Delta tables exist in `diabetes_db`
-- [ ] Databricks SQL Dashboard created with 15 visualisation widgets
-- [ ] Screenshots taken of: DBFS file upload, each notebook run, Delta tables, dashboard
-- [ ] `prompts.txt` included (AI tool usage log)
-- [ ] Submitted via Campusweb before Monday 22.06.2026 at 23:59:59
-
----
 
 ## References
 
