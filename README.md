@@ -6,8 +6,9 @@ This project builds a diabetes analytics platform on Databricks using the **Meda
 
 ## Business Objectives
 
-| **O1** | **Population Risk Profiling** – Identify demographic and lifestyle segments with highest diabetes prevalence to support preventive care targeting | CDC BRFSS Dataset |
-| **O2** | **Hospital Readmission Reduction** – Detect clinical and treatment drivers of 30-day diabetic patient readmissions | UCI 130-US Hospitals Dataset |
+| **Obj1** | **Population Risk Profiling** – Identify demographic and lifestyle segments with highest diabetes prevalence to support preventive care targeting | CDC BRFSS Dataset |
+
+| **Obj2** | **Hospital Readmission Reduction** – Detect clinical and treatment drivers of 30-day diabetic patient readmissions | UCI 130-US Hospitals Dataset |
 
 ## Data Sources
 
